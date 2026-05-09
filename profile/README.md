@@ -1,31 +1,59 @@
+<div align="center">
+
 # ChendyTronics
 
 > Engineering intelligent embedded systems, connected platforms, and next-generation digital solutions.
 
-<p align="center">
-  <img src="https://github.com/ChendyTronics-Company/.github/blob/007f2cd2c4b0096c216b09a8a1a1204981549563/profile/logo.png"  alt="ChendyTronics Logo"/>
-</p>
+<img src="https://raw.githubusercontent.com/ChendyTronics-Company/.github/007f2cd2c4b0096c216b09a8a1a1204981549563/profile/logo.png"  alt="ChendyTronics Logo"/>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
+<div align="center">
+
 ##  About Us
+
+</div>
 
 **ChendyTronics** is a technology and engineering organization focused on the intersection of:
 
-- Embedded Systems
-- Artificial Intelligence
-- IoT & Smart Monitoring
-- Electronics Engineering
-- Software Development
-- Cloud & Connected Infrastructure
-- Cyber-Physical Systems
-- Research & Innovation
+- Embedded Systems  
+- Artificial Intelligence  
+- IoT & Smart Monitoring  
+- Electronics Engineering  
+- Software Development  
+- Cloud & Connected Infrastructure  
+- Cyber-Physical Systems  
+- Research & Innovation  
 
 Our mission is to design intelligent, scalable, and reliable technological solutions combining modern software engineering with advanced electronics.
 
 ---
 
+<div align="center">
+
 ## 🔬 Main Areas of Work
+
+</div>
 
 ### ⚡ Embedded & Electronic Systems
 - Intelligent electronic diagnostic devices
@@ -55,26 +83,22 @@ Our mission is to design intelligent, scalable, and reliable technological solut
 - Infrastructure automation
 - Scalable cloud-connected services
 
+---
+
+<div align="center">
+
+## 📂 Organization Repositories
+
+</div>
+
 
 ---
 
-## 🛠️ Technologies
-
-### Languages
-`Python` • `TypeScript` • `C/C++` • `JavaScript` • `SQL`
-
-### Frameworks & Tools
-`FastAPI` • `Node.js` • `React` • `Next.js` • `Docker` • `GitHub Actions`
-
-### Embedded & IoT
-`ESP32` • `Arduino` • `MQTT` • `Serial Communication` • `Wireless Sensors`
-
-### Cloud & Infrastructure
-`Linux` • `Nginx` • `Cloud Deployment` • `CI/CD Pipelines`
-
----
+<div align="center">
 
 ## 🌍 Vision
+
+</div>
 
 ChendyTronics aims to build impactful technological solutions bridging:
 
@@ -85,15 +109,20 @@ ChendyTronics aims to build impactful technological solutions bridging:
 - African technological advancement
 
 We believe in engineering solutions that are:
-- Intelligent
-- Reliable
-- Scalable
-- Research-driven
-- Accessible
+
+- Intelligent  
+- Reliable  
+- Scalable  
+- Research-driven  
+- Accessible  
 
 ---
 
+<div align="center">
+
 ## 📈 Current Focus
+
+</div>
 
 - Smart monitoring infrastructure
 - AI-powered diagnostic systems
@@ -104,9 +133,14 @@ We believe in engineering solutions that are:
 
 ---
 
+<div align="center">
+
 ## 🤝 Collaboration
 
+</div>
+
 We are open to:
+
 - Research collaborations
 - Open-source contributions
 - Engineering partnerships
@@ -115,10 +149,11 @@ We are open to:
 
 ---
 
-
-<p align="center">
-  <strong>ChendyTronics</strong><br/>
-  Engineering the future through intelligent systems.
-</p>
+<div align="center">
 
 
+<br>
+
+### Engineering the future through intelligent systems.
+
+</div>
