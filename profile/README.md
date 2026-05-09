@@ -83,16 +83,6 @@ Our mission is to design intelligent, scalable, and reliable technological solut
 - Infrastructure automation
 - Scalable cloud-connected services
 
----
-
-<div align="center">
-
-
-
-</div>
-
-
----
 
 <div align="center">
 
