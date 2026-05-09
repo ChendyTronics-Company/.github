@@ -87,7 +87,7 @@ Our mission is to design intelligent, scalable, and reliable technological solut
 
 <div align="center">
 
-## 📂 Organization Repositories
+
 
 </div>
 
