@@ -141,9 +141,8 @@ We are open to:
 
 <div align="center">
 
+<img src="https://github.com/ChendyTronics-Company/.github/blob/994d7e832ae11303555ff48a2706092ca122c310/profile/footer.png"  alt="ChendyTronics Logo"/>
 
-<br>
 
-### Engineering the future through intelligent systems.
 
 </div>
